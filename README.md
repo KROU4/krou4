@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is KROU4
-#### I am BSTU student programmer
 ![I am BSTU student programmer](https://sun9-53.userapi.com/impf/IiHqbIaxh3evTYWBkWOoEooahRTLEgvnolNJgQ/A7uQricfQA4.jpg?size=960x384&quality=96&crop=0,0,1920,640&sign=c9086dc4d02eb9da23bf9b001e7810ad&c_uniq_tag=WuSGDsiVE1TAYjA7G-FAK1d3Gdym4TG53PS7h5PGu_w&type=helpers&quot)
 
 
