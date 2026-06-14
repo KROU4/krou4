@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/krou4">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=AI+Integration+Specialist;ИИ-инженер+%2B+fullstack-разработчик;Founder+%40+AVOP;Powerlifter+•+550kg+total" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=AI+Integration+Specialist%3B%D0%98%D0%98-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%2B+fullstack-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%3BFounder+%40+AVOP%3BPowerlifter+%E2%80%94+550kg+total" alt="Typing SVG" />
   </a>
 </p>
 
