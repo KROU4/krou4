@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/KROU4">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Senior+AI+Engineer+%C2%B7+LLM+%C2%B7+RAG+%C2%B7+AI+Agents;%D0%A1%D1%82%D1%80%D0%BE%D1%8E+%D0%98%D0%98-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BE%D0%B2+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E+%D0%B4%D0%BB%D1%8F+%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0;Python+%C2%B7+FastAPI+%C2%B7+TypeScript+%C2%B7+React;Founder+%40+AVOP;Powerlifter+%E2%80%94+550+kg+total" alt="Senior AI Engineer · LLM · RAG · AI Agents" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Senior+AI+Engineer;AI+Integration+Specialist" alt="Senior AI Engineer · AI Integration Specialist" />
   </a>
 </p>
 
