@@ -2,12 +2,6 @@
   <img src="./assets/banner.jpg" alt="KROU4" width="100%" />
 </p>
 
-<h1 align="center">Привет! Я Дмитрий Велютич 👋</h1>
-
-<p align="center">
-  <b>Senior AI Engineer</b> из Минска. Делаю LLM-агентов, RAG и автоматизацию, которые доходят до продакшена.
-</p>
-
 <p align="center">
   <a href="https://github.com/KROU4">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Senior+AI+Engineer+%C2%B7+LLM+%C2%B7+RAG+%C2%B7+AI+Agents;%D0%A1%D1%82%D1%80%D0%BE%D1%8E+%D0%98%D0%98-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BE%D0%B2+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E+%D0%B4%D0%BB%D1%8F+%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0;Python+%C2%B7+FastAPI+%C2%B7+TypeScript+%C2%B7+React;Founder+%40+AVOP;Powerlifter+%E2%80%94+550+kg+total" alt="Senior AI Engineer · LLM · RAG · AI Agents" />
@@ -20,82 +14,6 @@
   <a href="https://krou4.github.io/KROU4-Website/"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт" /></a>
   <a href="https://www.instagram.com/krou4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-
----
-
-### 🧑‍💻 Обо мне · About me
-
-- 🔭 Senior AI Engineer в **1AK-Group**: внедряю ИИ в процессы компании — агенты, RAG, внутренние сервисы
-- 🚀 Founder **AVOP**
-- 🛠 Довожу проекты до конца: бэкенд, фронт, Docker, CI/CD, установщики под Windows, macOS и Linux
-- 🎓 ФИТ БГТУ, специальность ИСиТ
-- 🏋️ Пауэрлифтер: **550 кг** в сумме трёх движений
-
-### 🤖 Что делаю · What I build
-
-| Направление | Как и на чём |
-|---|---|
-| **ИИ-агенты и ассистенты** | LLM с инструментами и памятью: OpenAI, Claude, Groq, OpenRouter |
-| **RAG** | Поиск и ответы по документам и базам знаний на PostgreSQL + pgvector |
-| **Telegram-боты** | aiogram, платежи, админки, ИИ внутри бота |
-| **Автоматизация** | Playwright, парсинг, интеграции по API, рассылки |
-| **Десктоп** | PySide6 / PyQt6 + Briefcase, нативные установщики |
-| **Fullstack** | FastAPI + React / Next.js, PostgreSQL, Redis, Docker |
-
----
-
-### 🚀 Проекты · Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[📷 PS5CameraDriver](https://github.com/KROU4/PS5CameraDriver)**
-
-PS5 HD Camera как обычная веб-камера в Windows 11: родные 1080p60 и размытие фона по карте глубины со стереопары. Без драйвера ядра, через Device MFT.
-
-`C++` `HLSL` `DirectX 11` `Media Foundation`
-
-[Скачать релиз →](https://github.com/KROU4/PS5CameraDriver/releases/latest)
-
-</td>
-<td width="50%" valign="top">
-
-**[🎙️ Whisper-Tray](https://github.com/KROU4/Whisper-Tray)**
-
-Голосовая диктовка по горячей клавише для Windows, macOS и Linux: локальный Whisper или Groq, ИИ-шлифовка текста, нативные установщики.
-
-`Python` `PySide6` `ONNX Runtime` `Groq`
-
-[Сайт →](https://krou4.github.io/Whisper-Tray/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🔎 AEOGEO](https://github.com/KROU4/AEOGEO)**
-
-Платформа AI-видимости: показывает, как бренд появляется, цитируется и рекомендуется в ответах ИИ-поисковиков.
-
-`FastAPI` `Temporal` `PostgreSQL + pgvector` `React`
-
-</td>
-<td width="50%" valign="top">
-
-**[📄 SummaryWEB](https://github.com/KROU4/SummaryWEB)**
-
-Структурированные выжимки из PDF и YouTube-роликов через OpenRouter. Работает прямо в браузере, без бэкенда.
-
-`TypeScript` `React` `Vite` `OpenRouter`
-
-[Открыть →](https://krou4.github.io/SummaryWEB/)
-
-</td>
-</tr>
-</table>
-
-**Ещё:** сайты для клиентов — [ltg.by](https://ltg.by/) (аренда автомобилей), [remw8l.online](https://remw8l.online/) (фотограф), [мебель на заказ](https://krou4.github.io/Dad/) · Kufar Writer — десктоп-клиент для Kufar.by с установщиком MSI · Telegram-боты с ИИ на aiogram
 
 ---
 
@@ -151,10 +69,8 @@ PS5 HD Camera как обычная веб-камера в Windows 11: родн�
 
 <br />
 
-- **Лабораторные по семестрам:** [1](https://github.com/KROU4/BSTU_1_SEM) · [2](https://github.com/KROU4/BSTU_2_SEM) · [3](https://github.com/KROU4/BSTU_3_SEM) · [4](https://github.com/KROU4/BSTU_4_SEM) · [5](https://github.com/KROU4/BSTU_5_SEM) · [6](https://github.com/KROU4/BSTU_6_SEM) · [7](https://github.com/KROU4/BSTU_7_SEM)
-- **Дипломная работа:** [BSTU_8_SEM](https://github.com/KROU4/BSTU_8_SEM)
+- **Лабораторные по семестрам:** [1](https://github.com/KROU4/BSTU_1_SEM) · [2](https://github.com/KROU4/BSTU_2_SEM) · [3](https://github.com/KROU4/BSTU_3_SEM) · [4](https://github.com/KROU4/BSTU_4_SEM) · [5](https://github.com/KROU4/BSTU_5_SEM) · [6](https://github.com/KROU4/BSTU_6_SEM) · [7](https://github.com/KROU4/BSTU_7_SEM) · [8](https://github.com/KROU4/BSTU_8_SEM)
 - **Курсовые:** [ООП](https://github.com/KROU4/coursework_oop_5sem) · [Базы данных](https://github.com/KROU4/courseword_database_4sem) · [Скриптовые языки](https://github.com/KROU4/syap_coursework_2sem) · [КЯР: сеть кинотеатров Минска](https://github.com/KROU4/coursework_kyar_2023)
-- **ОАИП, 1 курс:** [labs_oaip_1sem_1kurs](https://github.com/KROU4/labs_oaip_1sem_1kurs)
 
 </details>
 
