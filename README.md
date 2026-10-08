@@ -33,7 +33,7 @@
 
 ### 🤖 Что делаю · What I build
 
-| | |
+| Направление | Как и на чём |
 |---|---|
 | **ИИ-агенты и ассистенты** | LLM с инструментами и памятью: OpenAI, Claude, Groq, OpenRouter |
 | **RAG** | Поиск и ответы по документам и базам знаний на PostgreSQL + pgvector |
@@ -103,8 +103,8 @@ PS5 HD Camera как обычная веб-камера в Windows 11: родн�
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,ts,react,nextjs,vite,tailwind,supabase,prisma,astro,qt,cpp,rust,githubactions,linux&perline=9&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,ts,react,nextjs,vite,tailwind,supabase,prisma,astro,qt,cpp,rust,githubactions,linux&perline=9&theme=dark" alt="Python, FastAPI, PostgreSQL, Redis, Docker, TypeScript, React, Next.js, Vite, Tailwind, Supabase, Prisma, Astro, Qt, C++, Rust, GitHub Actions, Linux" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cpostgres%2Credis%2Cdocker%2Cts%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cprisma%2Castro%2Cqt%2Ccpp%2Crust%2Cgithubactions%2Clinux&perline=9&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py%2Cfastapi%2Cpostgres%2Credis%2Cdocker%2Cts%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cprisma%2Castro%2Cqt%2Ccpp%2Crust%2Cgithubactions%2Clinux&perline=9&theme=dark" alt="Python, FastAPI, PostgreSQL, Redis, Docker, TypeScript, React, Next.js, Vite, Tailwind, Supabase, Prisma, Astro, Qt, C++, Rust, GitHub Actions, Linux" />
   </picture>
 </p>
 
@@ -134,8 +134,8 @@ PS5 HD Camera как обычная веб-камера в Windows 11: родн�
     <img height="170" src="https://streak-stats.demolab.com?user=KROU4&hide_border=true&theme=default" alt="GitHub streak" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KROU4&layout=compact&hide_border=true&langs_count=8&hide=html,css&theme=github_dark&exclude_repo=BSTU_1_SEM,BSTU_2_SEM,BSTU_3_SEM,BSTU_4_SEM,BSTU_5_SEM,BSTU_6_SEM,BSTU_7_SEM,BSTU_8_SEM,coursework_oop_5sem,courseword_database_4sem,syap_coursework_2sem,coursework_kyar_2023,labs_oaip_1sem_1kurs,19bntu,Resume" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KROU4&layout=compact&hide_border=true&langs_count=8&hide=html,css&exclude_repo=BSTU_1_SEM,BSTU_2_SEM,BSTU_3_SEM,BSTU_4_SEM,BSTU_5_SEM,BSTU_6_SEM,BSTU_7_SEM,BSTU_8_SEM,coursework_oop_5sem,courseword_database_4sem,syap_coursework_2sem,coursework_kyar_2023,labs_oaip_1sem_1kurs,19bntu,Resume" alt="Языки" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KROU4&layout=compact&hide_border=true&langs_count=8&hide=html%2Ccss&theme=github_dark&exclude_repo=BSTU_1_SEM%2CBSTU_2_SEM%2CBSTU_3_SEM%2CBSTU_4_SEM%2CBSTU_5_SEM%2CBSTU_6_SEM%2CBSTU_7_SEM%2CBSTU_8_SEM%2Ccoursework_oop_5sem%2Ccourseword_database_4sem%2Csyap_coursework_2sem%2Ccoursework_kyar_2023%2Clabs_oaip_1sem_1kurs%2C19bntu%2CResume" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KROU4&layout=compact&hide_border=true&langs_count=8&hide=html%2Ccss&exclude_repo=BSTU_1_SEM%2CBSTU_2_SEM%2CBSTU_3_SEM%2CBSTU_4_SEM%2CBSTU_5_SEM%2CBSTU_6_SEM%2CBSTU_7_SEM%2CBSTU_8_SEM%2Ccoursework_oop_5sem%2Ccourseword_database_4sem%2Csyap_coursework_2sem%2Ccoursework_kyar_2023%2Clabs_oaip_1sem_1kurs%2C19bntu%2CResume" alt="Языки" />
   </picture>
 </p>
 
@@ -162,6 +162,4 @@ PS5 HD Camera как обычная веб-камера в Windows 11: родн�
 
 <p align="center">
   💬 Нужен ИИ-агент, бот или автоматизация? Пиши в <a href="https://t.me/KROU4">Telegram</a>.
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=KROU4&style=flat-square&color=8b5cf6&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F" alt="Просмотры профиля" />
 </p>
